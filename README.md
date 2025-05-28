@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <b>Junn Xavier Adalid</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Laravel+Expert;Python+Enthusiast;Cybersecurity+Advocate;Building+Robust+Web+Apps;Crafting+Secure+Solutions&center=true&width=650&height=60&font=Fira+Code&pause=900&color=00F5FF&vCenter=true&size=26" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Experienced+with+Laravel;Python+Enthusiast;Cybersecurity+Advocate;Building+Robust+Web+Apps;Crafting+Secure+Solutions&center=true&width=650&height=60&font=Fira+Code&pause=900&color=00F5FF&vCenter=true&size=26" alt="Typing SVG" />
 </p>
 
 <p align="center">
