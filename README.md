@@ -22,7 +22,8 @@ I'm a **Full-Stack Developer** specializing in **Laravel (PHP)** backend enginee
 
 - Architecting **scalable**, **secure**, and **maintainable** web applications  
 - Applying **cybersecurity best practices** to protect data & privacy  
-- Building **data-driven insights** through Python-powered analytics  
+- Building **data-driven insights** through Python-powered analytics
+- Designing **transactional** and **standard systems** with an emphasis on data integrity, performance, and reliability
 
 ---
 
