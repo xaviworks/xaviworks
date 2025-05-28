@@ -57,7 +57,6 @@ I'm a **Full-Stack Developer** specializing in **Laravel (PHP)** backend enginee
 - 📈 Developed ML models & data pipelines for predictive analytics and classification  
 - 💻 Built desktop & mobile productivity apps using Python toolkits  
 - 🔌 Integrated 3rd-party APIs: Google Cloud, OpenAI, REST microservices  
-- 🛡️ Applied OWASP guidelines and penetration testing results to harden apps
 
 <details>
   <summary><strong>📁 Project types</strong></summary>
