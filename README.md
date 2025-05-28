@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xaviworks&label=Profile+Views&color=00f5ff&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-1,931,834-00f5ff?style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=xaviworks&label=Profile+Views&color=00f5ff&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/xaviworks?label=Followers&style=flat-square&color=lightgray" alt="followers" />
   <a href="https://www.facebook.com/xavi.adalid" target="_blank" title="Follow me on Facebook">
     <img src="https://img.shields.io/badge/Follow-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Follow" />
