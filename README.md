@@ -71,12 +71,32 @@ I'm a **Full-Stack Developer** specializing in **Laravel (PHP)** backend enginee
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xaviworks&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviworks&langs_count=8&layout=donut&theme=tokyonight&hide_border=true" height="180" />
+  <!-- Stats: Commits, PRs, Stars -->
+  <img src="https://github-readme-stats.vercel.app/api?username=xaviworks&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&custom_title=Activity+Snapshot" height="180" />
+  
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviworks&langs_count=10&layout=donut&theme=algolia&hide_border=true&custom_title=Languages+by+Usage" height="180" />
 </p>
+
+<p align="center">
+  <!-- Streak Graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaviworks&theme=algolia&hide_border=true&mode=weekly&custom_title=Weekly+Streak+Overview" height="180" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xaviworks&theme=github-compact&custom_title=Contribution+Heatmap&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Custom Hacker Signature -->
+  <code style="font-size: 16px;">dev philosophy</code><br />
+  <code>while(true) { code(); secure(); automate(); repeat(); }</code>
+</p>
+
 
 ---
 
