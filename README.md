@@ -22,7 +22,7 @@ I'm a **Full-Stack Developer** specializing in **Laravel (PHP)** backend enginee
 
 - Architecting **scalable**, **secure**, and **maintainable** web applications  
 - Applying **cybersecurity best practices** to protect data & privacy  
-- Building **data-driven insights** through Python-powered analytics
+- Building **data-driven insights** through Python-powered analytics  
 - Designing **transactional** and **standard systems** with an emphasis on data integrity, performance, and reliability
 
 ---
@@ -30,19 +30,20 @@ I'm a **Full-Stack Developer** specializing in **Laravel (PHP)** backend enginee
 ## 🛠️ Tech Stack & Skills
 
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem;">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,vue,js,html,css,mysql,git,github,numpy,pandas,matplotlib,selenium,requests,beautifulsoup,googlecloud,openai,kali" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,vue,js,html,css,mysql,git,github,numpy,pandas,matplotlib,selenium,requests,beautifulsoup,googlecloud,firebase,openai,kali,aws" alt="Tech icons" />
 </p>
 
 <details>
   <summary><strong>📌 Expand for detailed skills</strong></summary>
 
 - **Backend:** Laravel, PHP, Python, RESTful APIs, Google APIs, OpenAI API  
-- **Frontend:** Vue.js, Vanilla JS, HTML5, CSS3 (BEM, Flexbox, Grid)  
-- **Databases:** MySQL, relational schema design, query optimization  
-- **Data Science & ML:** numpy, pandas, matplotlib, scikit-learn pipelines  
-- **Automation & Scraping:** Selenium, requests, BeautifulSoup, cron jobs  
+- **Frontend:** Vue.js, Vanilla JS, HTML, CSS, Leaflet.js  
+- **Databases:** MySQL, Firebase (Realtime Database & Firestore), relational schema design, query optimization  
+- **Data Science & ML:** numpy, pandas, matplotlib, scikit-learn pipelines, Vertex AI  
+- **Automation & Integration:** Selenium, requests, BeautifulSoup, cron jobs, Zapier, PowerAutomate  
+- **Cloud & Platforms:** Firebase, Google Cloud, AWS Workspaces  
 - **Desktop/Mobile Apps:** Python frameworks (PyQt, Kivy)  
-- **DevOps & Security:** Linux server hardening, Kali Linux tools, OWASP top 10 mitigation  
+- **DevOps & Security:** Linux Fundamentals, Kali Linux tools 
 - **Version Control:** Git, GitHub workflows, branching strategies  
 
 </details>
@@ -56,17 +57,25 @@ I'm a **Full-Stack Developer** specializing in **Laravel (PHP)** backend enginee
 - 🔐 Designed & implemented secure full-stack applications with multi-factor authentication & RBAC  
 - 📈 Developed ML models & data pipelines for predictive analytics and classification  
 - 💻 Built desktop & mobile productivity apps using Python toolkits  
-- 🔌 Integrated 3rd-party APIs: Google Cloud, OpenAI, REST microservices  
+- 🔌 Integrated 3rd-party APIs: Google Cloud, OpenAI, RESTful APIs  
+- 🧠 Integrated Zapier and PowerAutomate to streamline business workflows  
+- 🗺️ Developed mapping systems with Leaflet.js and Firebase real-time data  
+- ☁️ Maintained and configured AWS Workspaces for secure, remote environments  
+- 🤖 Leveraged Vertex AI for smart predictions and scalable ML deployments  
 
 <details>
   <summary><strong>📁 Project types</strong></summary>
 
-- Enterprise dashboards & analytics  
-- Secure authentication & authorization systems  
-- Automated data scraping & ETL pipelines  
-- Microservices & API orchestration  
-- Cloud deployment & CI/CD pipelines on GCP  
-
+- Secure full-stack web applications with role-based access control (RBAC) and multi-factor authentication  
+- Data-driven enterprise dashboards, analytics, and reporting systems  
+- Machine learning model development and deployment pipelines for predictive insights  
+- Automated web scraping, ETL workflows, and data integration pipelines  
+- API-first development with RESTful services
+- Cross-platform desktop and mobile productivity tools using Python frameworks  
+- Real-time data-driven mapping applications using Leaflet.js and Firebase  
+- Cloud infrastructure setup, deployment, and CI/CD pipelines on Google Cloud Platform (GCP)  
+- Business process automation leveraging Zapier and Microsoft PowerAutomate  
+- Secure remote workspace management and configuration on AWS Workspaces  
 </details>
 
 ---
@@ -76,19 +85,15 @@ I'm a **Full-Stack Developer** specializing in **Laravel (PHP)** backend enginee
 <p align="center">
   <!-- Stats: Commits, PRs, Stars -->
   <img src="https://github-readme-stats.vercel.app/api?username=xaviworks&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&custom_title=Activity+Snapshot" height="180" />
-  
-  <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviworks&langs_count=10&layout=donut&theme=algolia&hide_border=true&custom_title=Languages+by+Usage" height="180" />
-</p>
 
 <p align="center">
   <!-- Streak Graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaviworks&theme=algolia&hide_border=true&mode=weekly&custom_title=Weekly+Streak+Overview" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaviworks&theme=algolia&hide_border=true&mode=weekly&custom_title=Weekly+Streak+Overview" height="250" />
 </p>
 
 <p align="center">
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xaviworks&theme=github-compact&custom_title=Contribution+Heatmap&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xaviworks&theme=github-compact&custom_title=Contribution+Heatmap&hide_border=true" height="250" />
 </p>
 
 <p align="center">
@@ -96,7 +101,6 @@ I'm a **Full-Stack Developer** specializing in **Laravel (PHP)** backend enginee
   <code style="font-size: 16px;">dev philosophy</code><br />
   <code>while(true) { code(); secure(); automate(); repeat(); }</code>
 </p>
-
 
 ---
 
