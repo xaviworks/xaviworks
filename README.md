@@ -24,6 +24,7 @@ I'm a **Full-Stack Developer** specializing in **Laravel (PHP)** backend enginee
 - Applying **cybersecurity best practices** to protect data & privacy  
 - Building **data-driven insights** through Python-powered analytics  
 - Designing **transactional** and **standard systems** with an emphasis on data integrity, performance, and reliability
+- Experience in deploying web projects on Hostinger and implementing basic SEO techniques  
 
 ---
 
@@ -61,7 +62,9 @@ I'm a **Full-Stack Developer** specializing in **Laravel (PHP)** backend enginee
 - 🧠 Integrated Zapier and PowerAutomate to streamline business workflows  
 - 🗺️ Developed mapping systems with Leaflet.js and Firebase real-time data  
 - ☁️ Maintained and configured AWS Workspaces for secure, remote environments  
-- 🤖 Leveraged Vertex AI for smart predictions and scalable ML deployments  
+- 🤖 Leveraged Vertex AI for smart predictions and scalable ML deployments
+- 🌐 Experience deploying and managing websites on Hostinger's hosting platform  
+- 📊 Implemented basic SEO strategies to improve website visibility and performance  
 
 <details>
   <summary><strong>📁 Project types</strong></summary>
