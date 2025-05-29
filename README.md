@@ -87,7 +87,7 @@ I'm a **Full-Stack Developer** specializing in **Laravel (PHP)** backend enginee
 
 <p align="center">
   <!-- Stats: Commits, PRs, Stars -->
-  <img src="https://github-readme-stats.vercel.app/api?username=xaviworks&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&custom_title=Activity+Snapshot" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xaviworks&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&custom_title=Activity+Snapshot" height="250" />
 
 <p align="center">
   <!-- Streak Graph -->
@@ -102,7 +102,7 @@ I'm a **Full-Stack Developer** specializing in **Laravel (PHP)** backend enginee
 <p align="center">
   <!-- Custom Hacker Signature -->
   <code style="font-size: 16px;">dev philosophy</code><br />
-  <code>while(true) { code(); secure(); automate(); repeat(); }</code>
+  <code>while(true) { code(); automate(); secure(); optimize(); repeat(); }</code>
 </p>
 
 ---
